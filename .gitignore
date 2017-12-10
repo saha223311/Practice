@@ -1,4 +1,7 @@
 lab1/Factorial/Debug
 lab1/Factorial/.vs/
-*.vcxproj.filters
-*.sln
+laba2(timus1881)/Debug
+laba2(timus1881)/laba2(timus1881)/Debug
+laba2(timus1881)/.vs/
+lab1/*.vcxproj.filters
+lab1/*.sln
